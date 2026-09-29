@@ -1,4 +1,0 @@
-método,episodios,pasos,recompensa primeros 20,recompensa últimos 20,mejor media móvil 20,primera media móvil >= 200,Q promedio últimos 20,target promedio últimos 20
-DQN,500,260790,-194.39,243.16,258.4,269,86.77,53.74
-Double DQN,500,317678,-194.32,237.75,237.75,397,54.24,24.55
-Double DQN + PER,500,252426,-176.16,234.61,245.56,306,27.13,60.56
